@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ochaib
-- 👀 I’m interested in machine learning, computer vision, distributed systems and finance.
+- 👀 I’m interested in machine learning, distributed systems, trading and DeFi.
 - 🌱 I’m currently learning C++ and more...
 - 💞️ I’m looking to collaborate on anything.
 - 📫 How to reach me: I'll reach you.
